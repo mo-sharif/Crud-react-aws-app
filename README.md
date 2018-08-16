@@ -7,3 +7,6 @@ I took this [React CRUD boilerplate](https://github.com/ariesmcrae/reactjs-crud-
 You'll need to have [Node.js](https://nodejs.org/en/download/) installed and an API to create/read/update/delete courses and authors, as described in the article.
 
 In the `server` directory you can find a sample API made with Nojde.js and Express to test the app locally. Just execute `npm install` to install the dependencies and start the server with `npm start`. Change the API URL in `src/api/serverUrl.js` to `http:localhost:4000` or whatever your server is deployed.
+
+
+[Working demo](http://react-frontend-editor.s3-website-us-east-1.amazonaws.com/)  
